@@ -476,6 +476,16 @@ Inspiration was gathered from other great JSON parsing libraries like [Argo](htt
 
 Special thanks to all [contributors](https://github.com/hkellaway/Gloss/contributors)! :sparkling_heart:
 
+### Featured
+
+Check out Gloss in these cool places:
+
+[Ray Wenderlich | Swift Tutorial: Working with JSON](http://www.raywenderlich.com/120442/swift-json-tutorial)
+
+[iOS Times](http://theiostimes.com/year-01-issue-12.html)
+
+[iOS Goodies](http://ios-goodies.com/post/127166753231/week-93)
+
 ## License
 
 Gloss is available under the MIT license. See the [LICENSE](https://raw.githubusercontent.com/hkellaway/Gloss/master/LICENSE) file for more info.
